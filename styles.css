@@ -1,0 +1,44 @@
+.navbtn {
+    margin-left: 1rem;
+    width: 200px;
+    height: 175px;
+    margin-top: 10pt;
+    flex-wrap: wrap;
+}
+
+.imgbox {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+    padding: 1em;
+    margin: 1em;
+    width: 200px;
+}
+
+p {
+    text-align: center;
+}
+
+h1 {
+    text-align: center;
+}
+
+h2 {
+    text-align: center;
+    padding: 1em;
+}
+
+.search-query {
+    background-color: cyan;
+    border-style: dotted;
+    margin-left: 1rem;
+}
+
+.mw-100 {
+    padding: 2em;
+}
+
+.quartzdagger {
+    margin-left: 1em;
+}
